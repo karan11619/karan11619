@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prabakaran%20Perumal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Tech%20Lead%20%7C%20PHP%20%26%20Laravel%20Expert%20%7C%2010%2B%20Years%20Building%20Scalable%20SaaS&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prabakaran%20Perumal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack+Tech+Lead+%7C+PHP+Laravel+Expert+%7C+10%2B+Years+Scalable+SaaS&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=karan11619&label=Profile+Views&color=70a5fd&style=flat-square">
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```php
 <?php
