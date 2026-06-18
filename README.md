@@ -1,170 +1,258 @@
+ <img src="https://github-profile-trophy.vercel.app/?username=karan11619&theme=matrix&margin-w=15&margin-h=15&no-frame=true" />
 <div align="center">
+  <a href="https://komarev.com/ghpvc/?username=karan11619&label=Profile+Views&color=70a5fd&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=karan11619&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prabakaran-perumal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prabakaran.dev91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prabakaran.dev91@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-# Hi 👋, I'm Prabakaran P
+<br/>
 
-### Senior Full Stack Developer | PHP | Laravel | Vue.js | React.js | SaaS Architect
-
-<p>
-Passionate Full Stack Developer with <strong>12+ years of experience</strong> building scalable web applications, enterprise solutions, and multi-tenant SaaS platforms.
-</p>
-
-<p>
-I specialize in designing robust backend systems, developing modern frontend applications, leading engineering teams, and delivering high-performance products.
-</p>
-
-<p>
-<a href="https://ritanix.com">Portfolio</a> •
-<a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a> •
-<a href="mailto:your-email@example.com">Email</a>
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+Full+Stack+Developer+%7C+10%2B+Years;Laravel+%7C+PHP+%7C+React.js+%7C+Vue.js;Microservices+Architect+%26+Tech+Lead;Building+Scalable+SaaS+%26+B2B+Platforms" alt="Typing SVG"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 Senior Full Stack Developer with **12+ years of experience**
-* 🚀 Expertise in **PHP, Laravel, Vue.js, React.js, MySQL, REST APIs**
-* 🏗️ Experienced in **Microservices Architecture & Multi-Tenant SaaS Development**
-* 👨‍💼 Led engineering teams and mentored developers
-* 💳 Integrated payment systems using **Stripe**
-* ⚡ Improved application performance and scalability for high-traffic platforms
-* 🌱 Currently learning **AWS, System Design, and Cloud Architecture**
-* 🎯 Career Goal: **Software Architect / Solutions Architect**
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```php
+<?php
+
+class PrabakaranPerumal {
+
+    public string $name        = "Prabakaran Perumal";
+    public string $role        = "Fullstack Tech Lead";
+    public string $location    = "Trichy, India 🇮🇳";
+    public string $degree      = "B.Tech (IT), JJ College of Engineering";
+
+    public array $stack = [
+        "backend"  => ["PHP", "Laravel", "REST APIs", "Microservices"],
+        "frontend" => ["React.js", "Vue.js", "JavaScript"],
+        "database" => ["MySQL"],
+        "devops"   => ["Docker", "CI/CD", "Nginx", "Git"],
+    ];
+
+    public array $currentlyLearning = [
+        "Advanced Cloud Architecture",
+        "Kubernetes & Container Orchestration",
+        "Event-Driven Microservices",
+    ];
+
+    public string $funFact = "I've reviewed 40+ PRs/month and reduced bugs by 30%!";
+
+    public function motto(): string {
+        return "Build it scalable. Ship it clean. Lead with empathy.";
+    }
+
+    public function impact(): array {
+        return [
+            "latency_reduced"         => "40%",
+            "transaction_success_rate" => "98%+",
+            "production_releases"     => "12+ zero-critical",
+            "users_served"            => "10,000+ monthly",
+        ];
+    }
+}
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
+**Languages**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frontend
+**Frameworks & Libraries**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### Database
+**Cloud & DevOps**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Tools & Cloud
+**Databases**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Payments & Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 ---
 
-## 🏢 Professional Experience
+## 📊 GitHub Stats
 
-### Lead Engineer
+<div align="center">
+  <a href="https://github.com/karan11619">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=karan11619&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/karan11619">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan11619&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+  </a>
+</div>
 
-* Architected and developed enterprise web applications
-* Designed scalable database structures and ERDs
-* Led development teams and performed code reviews
-* Delivered SaaS products for multiple clients
-* Improved application performance and reduced latency
-* Mentored junior and mid-level developers
-* Implemented CI/CD practices and coding standards
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=karan11619&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karan11619&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karan11619&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🚀 Fullstack Tech Lead — iSportz, Trichy &nbsp;|&nbsp; Apr 2022 – Present</b></summary>
+
+<br/>
+
+> ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+> ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+- 🏗️ **Architected** a Laravel-based sports commerce platform serving **20+ B2B clients** and **10,000+ monthly users**, designing scalable microservices to handle growing transaction load.
+- ⚡ **Reduced latency by 40%** through targeted database query optimization and full API restructuring, dramatically improving end-user experience.
+- 💳 **Integrated Stripe, PayPal & Razorpay** payment gateways achieving a **98%+ transaction success rate** across all client deployments.
+- 👨‍🏫 **Led a team of 4 developers**, mentored junior engineers (reducing onboarding time by **50%**), conducted **40+ code reviews/month** (cutting production bugs by **30%**), and delivered **12+ major releases** with zero critical post-deployment issues.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🧑‍💻 Senior PHP Developer — Integrass Technical Service, Trichy &nbsp;|&nbsp; May 2016 – Mar 2022</b></summary>
+
+<br/>
+
+> ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+- 🌐 Designed and developed scalable web applications using **Laravel, PHP, and MySQL** for multiple client platforms across 6 years.
+- 🔗 Built and maintained **RESTful APIs** consumed by multiple client frontends and third-party integrations.
+- 💳 Integrated payment systems including **Stripe, PayPal, and Razorpay** across diverse client projects.
+- 🤝 Owned full lifecycle development from **requirement analysis to deployment**, collaborating closely with QA teams for high-quality releases.
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏆 Member Management System (MMS)
+<div align="center">
 
-Enterprise platform for managing memberships, payments, and registrations.
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| 🏟️ **iSportz Sports Commerce Platform** | Laravel · PHP · React.js · Vue.js · MySQL · Docker | Serves **20+ B2B clients** & **10,000+ monthly users** · **40% latency reduction** · **98%+ payment success** · 12+ zero-critical releases |
+| 🔗 **Scalable REST API Suite** | Laravel · PHP · MySQL · Nginx | Designed & implemented RESTful APIs for frontend SPAs and third-party integrations with structured versioning and security best practices |
+| 🛡️ **Microservices Architecture Migration** | Laravel Microservices · Docker · CI/CD · Nginx | Architected migration from monolith to microservices, enabling independent scaling of services and supporting business growth |
 
-**Tech Stack:** Laravel, Vue.js, MySQL, Stripe
-
-### 🏆 Event Management System (EMS)
-
-Comprehensive event registration and management solution.
-
-**Tech Stack:** Laravel, Vue.js, REST APIs
-
-### 🏆 Multi-Tenant SaaS Platform
-
-Scalable SaaS platform supporting multiple organizations with isolated data.
-
-**Tech Stack:** Laravel, Stancl Tenancy, MySQL
-
-### 🏆 AI-Powered Web Applications
-
-Integrating AI capabilities into enterprise applications.
-
-**Tech Stack:** Laravel, REST APIs, AI Services
+</div>
 
 ---
 
-## 🏆 Key Achievements
+## 🏅 Achievements
 
-✅ 12+ Years of Professional Experience
+<div align="center">
 
-✅ Built High-Traffic SaaS Applications
+| 🏆 | Achievement | Impact |
+|:---:|:------------|:-------|
+| ⚡ | **40% Latency Reduction** | Optimized DB queries & restructured APIs in production — measurable UX improvement across 10,000+ users |
+| 🚢 | **12+ Zero-Critical Releases** | Led all major production deployments with zero critical post-release issues |
+| 💳 | **98%+ Payment Success Rate** | Integrated Stripe, PayPal & Razorpay with enterprise-grade reliability |
+| 👨‍🏫 | **50% Faster Onboarding** | Structured mentoring program reduced new developer ramp-up time by half |
+| 🐛 | **30% Bug Reduction** | Enforced 40+ code reviews/month, systematically reducing production defects |
+| 👥 | **Team Leadership** | Led cross-functional team of 4 developers across backend and frontend tracks |
 
-✅ Designed Multi-Tenant Architectures
-
-✅ Integrated Secure Payment Systems
-
-✅ Led Development Teams Successfully
-
-✅ Delivered Enterprise Solutions Serving Thousands of Users
-
-✅ Performance Optimization & System Scalability
-
----
-
-## 🌱 Currently Learning
-
-* AWS Solutions Architecture
-* Microservices Architecture
-* System Design
-* Kubernetes
-* DevOps & CI/CD
-* Artificial Intelligence Integration
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Education & Currently Learning
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan11619&show_icons=true&hide_border=true" />
+| Degree | Institution | Year | Score |
+|:-------|:------------|:----:|:-----:|
+| 🎓 B.Tech (Information Technology) | J J College of Engineering and Technology, Trichy | 2009 – 2013 | — |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan11619&layout=compact&hide_border=true" />
+</div>
 
-</p>
+<br/>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=karan11619" />
-</p>
+```php
+// 🧠 Currently Exploring & Levelling Up
 
----
+$currentlyLearning = [
+    "☁️  Cloud Architecture"      => "AWS · GCP · Serverless Functions",
+    "🐳  Container Orchestration" => "Kubernetes · Helm · Service Mesh",
+    "📨  Event-Driven Systems"    => "RabbitMQ · Kafka · CQRS · Event Sourcing",
+    "🔐  Advanced Security"       => "OAuth 2.0 · JWT · Zero-Trust Architecture",
+    "🤖  AI Integration"          => "LLM APIs · AI-assisted code workflows",
+];
 
-## 📫 Connect With Me
-
-* 🌐 Portfolio: https://ritanix.com
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💻 GitHub: https://github.com/karan11619
+// 📍 Location: Trichy, India
+// 📧 Contact : prabakaran.dev91@gmail.com
+// 💼 Open to : Senior / Lead / Architect roles
+```
 
 ---
 
 <div align="center">
-
-### "Code with Purpose. Build with Passion. Scale with Architecture."
-
-⭐ From [karan11619](https://github.com/karan11619)
-
+  <i>💬 "Build it scalable. Ship it clean. Lead with empathy."</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/karan619">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:prabakaran.dev91@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
