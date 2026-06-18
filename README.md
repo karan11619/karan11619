@@ -1,9 +1,10 @@
- <img src="https://github-profile-trophy.vercel.app/?username=karan11619&theme=matrix&margin-w=15&margin-h=15&no-frame=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prabakaran%20Perumal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Tech%20Lead%20%7C%20PHP%20%26%20Laravel%20Expert%20%7C%2010%2B%20Years%20Building%20Scalable%20SaaS&descAlignY=62&descSize=16" width="100%"/>
+
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=karan11619&label=Profile+Views&color=70a5fd&style=flat-square">
     <img src="https://komarev.com/ghpvc/?username=karan11619&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://www.linkedin.com/in/prabakaran-perumal">
+  <a href="https://www.linkedin.com/in/karan619">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:prabakaran.dev91@gmail.com">
