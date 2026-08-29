@@ -141,7 +141,7 @@ class PrabakaranPerumal {
 ## 💼 Work Experience
 
 <details>
-<summary><b>🚀 Fullstack Tech Lead — iSportz, Trichy &nbsp;|&nbsp; Apr 2022 – Present</b></summary>
+<summary><b>🚀 Fullstack Tech Lead — iSportz, Trichy &nbsp;|&nbsp; Apr 2022 – June 2026</b></summary>
 
 <br/>
 
